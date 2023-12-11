@@ -2,26 +2,23 @@
 size: 11pt
 draft: no
 head:
-    address: '123 Research Ave, Science Building 2'
-    city: Cambridge
-    state: MA
-    zip: 02114
-    phone: '\(121\) 555-2234'
-    fax: '\(999\) 555-6565'
-    email: 'hannigan@gmail.com'
+    address: '2227 1st Ave S, Apt 202'
+    city: Birmingham
+    state: AL
+    zip: 35233
+    phone: '\(601\) 596-3927'
+    email: 'ianr.super@gmail.com'
     dept: "Microbiology & Bioinformatics"
 sig:
  include: yes
  sign: yes
- name: 'Geoffrey Hannigan, PhD'
- post: Bioinformatics Scientist
- secondpost: Distinguished Second Appointment
+ name: 'Ian Super'
 ---
 
 \today
 
 
-To the editors of Science:
+To Whom it May Concern:
 
 We submit for your review: "The role of the microbiome in health and disease" by Geoffrey Hannigan and colleagues. We believe this work to be especially well suited for publication in Science and highly relevant to a broader scientific readership as well as the general public.
 
